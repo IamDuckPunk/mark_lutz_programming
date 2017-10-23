@@ -1,0 +1,6 @@
+Hello stream world
+Enter a number>5 squared is 25
+Enter a number>6 squared is 36
+Enter a number>7 squared is 49
+Enter a number>21 squared is 441
+Enter a number>
